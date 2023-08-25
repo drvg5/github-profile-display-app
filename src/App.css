@@ -1,0 +1,36 @@
+#root {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+.info{
+  float: right;
+}
+
+.logo{
+  width: 50px;
+  height: 50px;
+}
+
+.github-main-div{
+  margin-bottom: 500px;
+}
+
+.github-main-div h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 10px;
+  background-color: rgba(183, 99, 30, 0.607);
+  animation: example 5s infinite;
+}
+
+@keyframes example {
+  from {background-color: cyan;}
+  to {background-color: rgb(208, 24, 202);}
+}
+
+.searchbar-div{
+border-radius: 10px;
+background-color: darkred;
+}
