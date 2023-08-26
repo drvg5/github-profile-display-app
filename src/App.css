@@ -9,6 +9,9 @@
   float: right;
 }
 
+.info div{
+  color: lightgreen;
+}
 .logo{
   width: 50px;
   height: 50px;
@@ -16,6 +19,7 @@
 
 .github-main-div{
   margin-bottom: 500px;
+  margin-right: 400px;
 }
 
 .github-main-div h2{
