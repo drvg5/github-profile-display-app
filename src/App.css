@@ -27,7 +27,7 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border-radius: 10px;
   background-color: rgba(183, 99, 30, 0.607);
-  animation: example 5s infinite;
+  animation: example 7s infinite;
 }
 
 @keyframes example {
