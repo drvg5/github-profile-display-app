@@ -21,4 +21,5 @@ To run on your local please follow these steps:
 
 
 Credits:
+
 The project was possible due to this amazing pluralsight course -> **React 17: Getting Started** by Samer Buna
