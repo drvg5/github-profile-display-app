@@ -14,7 +14,9 @@ To run on your local please follow these steps:
 2. Editor of your choice(I used VScode)
 3. Open the folder in your IDE
 4. Open your terminal and run the following commands to get the application started:
+   
    npm install
+   
    npm run dev
 
 
