@@ -16,3 +16,7 @@ To run on you local please follow these steps:
 4. Open your terminal and run the following commands to get the application started:
    npm install
    npm run dev
+
+
+Credits:
+The project was possible due to this amazing pluralsight course -> React 17: Getting Started by Samer Buna
