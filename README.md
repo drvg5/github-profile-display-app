@@ -5,7 +5,7 @@ An application designed to fetch git user data made available in the api https:/
 
 It has been made using:
 
-# React + TypeScript + Vite
+# React + Vite
 
 
 To run on your local please follow these steps:
