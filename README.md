@@ -8,7 +8,7 @@ It has been made using:
 # React + TypeScript + Vite
 
 
-To run on you local please follow these steps:
+To run on your local please follow these steps:
 
 1. Install node js(minimum version 16)
 2. Editor of your choice(I used VScode)
